@@ -11,11 +11,11 @@ I am a high-mobility quantitaive researcher exploring the frontier where **Compu
 
 ### 🛠 Technical Toolkit
 
-* **Modeling (AI & Deep Tech)**
+* **Modeling**
     * Recurrent Neural Networks (RNNs)
     * Dynamical Systems
     * Cognitive & Behavioral Modeling
-* **Analytics (Quant & Research)**
+* **Analytics**
     * Causal Inference
     * Econometrics
     * Bayesian Statistics
