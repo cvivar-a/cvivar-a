@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Cocoliso 👋
 
-<!--
-**cvivar-a/cvivar-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Decoding the Brain | 💻 Building the Machine | ⚡️ CompNeuro & ML
 
-Here are some ideas to get you started:
+I am a high-mobility quantitaive researcher exploring the frontier where **Computational Neuroscience meets Deep Tech**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **🚀 Focus:** RNNs, Pattern Recognition, and Cognitive Modeling.
+* **📈 Background:** A multidisciplinary blend of Math, Economics, Cognition, and Computational Neuroscience.
+* **Specialties:** Recurrent Neural Networks (RNNs), Behavioral Modeling,Causal Inference, Econometrics, Data Analysis, Dynamical Systems
+📍 Currently scouting for the next big challenge in the global tech scene. 
+
+### 🛠 Technical Toolkit
+
+| **Modeling** | **Analytics** | **Data Science & Eng** |
+| :--- | :--- | :--- |
+| Recurrent Neural Networks (RNNs) | Causal Inference | Pattern Recognition |
+| Dynamical Systems | Econometrics | Time-Series Forecasting |
+| Cognitive Modeling | Bayesian Statistics | A/B Testing & Experimental Design |
+
+
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
