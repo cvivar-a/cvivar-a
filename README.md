@@ -18,7 +18,7 @@ I am a high-mobility quantitaive researcher exploring the frontier where **Compu
 * **Analytics**
     * Causal Inference
     * Econometrics
-    * Bayesian Statistics
+    * Statistics
 * **Data Science & Engineering**
     * Time-Series Forecasting
     * Pattern Recognition & Signal Processing
