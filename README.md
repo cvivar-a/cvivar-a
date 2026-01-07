@@ -1,4 +1,4 @@
-# Hi there, I'm Cocoliso 👋
+# Hi there, I'm Citlalli ✨
 
 ### 🧠 Decoding the Brain | 💻 Building the Machine | ⚡️ CompNeuro & ML
 
@@ -6,16 +6,23 @@ I am a high-mobility quantitaive researcher exploring the frontier where **Compu
 
 * **🚀 Focus:** RNNs, Pattern Recognition, and Cognitive Modeling.
 * **📈 Background:** A multidisciplinary blend of Math, Economics, Cognition, and Computational Neuroscience.
-* **Specialties:** Recurrent Neural Networks (RNNs), Behavioral Modeling,Causal Inference, Econometrics, Data Analysis, Dynamical Systems
+
 📍 Currently scouting for the next big challenge in the global tech scene. 
 
 ### 🛠 Technical Toolkit
 
-| **Modeling** | **Analytics** | **Data Science & Eng** |
-| :--- | :--- | :--- |
-| Recurrent Neural Networks (RNNs) | Causal Inference | Pattern Recognition |
-| Dynamical Systems | Econometrics | Time-Series Forecasting |
-| Cognitive Modeling | Bayesian Statistics | A/B Testing & Experimental Design |
+* **Modeling (AI & Deep Tech)**
+    * Recurrent Neural Networks (RNNs)
+    * Dynamical Systems
+    * Cognitive & Behavioral Modeling
+* **Analytics (Quant & Research)**
+    * Causal Inference
+    * Econometrics
+    * Bayesian Statistics
+* **Data Science & Engineering**
+    * Time-Series Forecasting
+    * Pattern Recognition & Signal Processing
+    * Experimental Design (A/B Testing)
 
 
 # 💻 Tech Stack:
